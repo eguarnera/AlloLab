@@ -3,7 +3,10 @@
 AlloLib allows to perform protein binding/mutation perturbations aimed at studing their allosteric effect according to the Structure Based Statistical Mechanical Model of Allostery (SBSMMA), which is based on the publications:
 
 Guarnera and Berezovsky, Structure-Based Statistical Mechanical Model Accounts for the Causality and Energetics of Allosteric Communication. PLoS Comput Biol 12, e1004678 (2016), https://doi.org/10.1371/journal.pcbi.1004678
+
+
 Guarnera and Berezovsky, Toward Comprehensive Allosteric Control over Protein Activity, Structure (2019), https://doi.org/10.1016/j.str.2019.01.014
+
 The models have also been implemented in the AlloSigma server which is a platform for the analysis of allosteric effects in proteins (https://allosigma.bii.a-star.edu.sg). See for instance
 
 Guarnera , Tan, Zheng, and Berezovsky, AlloSigMA: allosteric signaling and mutation analysis server. Bioinformatics 33, 3996–3998 (2017). https://doi.org/10.1093/bioinformatics/btx430
