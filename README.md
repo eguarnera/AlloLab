@@ -1,16 +1,16 @@
-# AlloLib
+# AlloLab
 
-AlloLib allows to perform protein binding/mutation perturbations aimed at studing their allosteric effect according to the Structure Based Statistical Mechanical Model of Allostery (SBSMMA), which is based on the publications:
+AlloLab allows to perform protein binding/mutation perturbations aimed at studing their allosteric effect according to the Structure Based Statistical Mechanical Model of Allostery (SBSMMA), which is based on the publications:
 
 Guarnera and Berezovsky, Structure-Based Statistical Mechanical Model Accounts for the Causality and Energetics of Allosteric Communication. PLoS Comput Biol 12, e1004678 (2016), https://doi.org/10.1371/journal.pcbi.1004678
 
 
 Guarnera and Berezovsky, Toward Comprehensive Allosteric Control over Protein Activity, Structure (2019), https://doi.org/10.1016/j.str.2019.01.014
 
-The models have also been implemented in the AlloSigma server which is a platform for the analysis of allosteric effects in proteins (https://allosigma.bii.a-star.edu.sg). See for instance
+The models have also been implemented in the AlloSigMa server which is a platform for the analysis of allosteric effects in proteins (https://allosigma.bii.a-star.edu.sg). See for instance
 
 Guarnera , Tan, Zheng, and Berezovsky, AlloSigMA: allosteric signaling and mutation analysis server. Bioinformatics 33, 3996–3998 (2017). https://doi.org/10.1093/bioinformatics/btx430
-AlloLib makes exstensive use of MMTK packages (http://dirac.cnrs-orleans.fr/MMTK.html), which works only with numpy up to version 1.8.2, it is therefore recommended to set up an anaconda virtual enviroment with MMTK installed (see for instance https://anaconda.org/ngraymon/mmtk) along with all other packages compatible with version 1.8.2.
+AlloLab makes exstensive use of MMTK packages (http://dirac.cnrs-orleans.fr/MMTK.html), which works only with numpy up to version 1.8.2, it is therefore recommended to set up an anaconda virtual enviroment with MMTK installed (see for instance https://anaconda.org/ngraymon/mmtk) along with all other packages compatible with version 1.8.2.
 
 Check below the output of the "pip list" command with the versions of some of the packages installed in the enviroment where this notebook was compiled.
 
